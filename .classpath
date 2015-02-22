@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/sarkara1/Dropbox/Intelligent Systems/Jess/Jess71p2-students/Jess71p2/lib/jess.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sarkara1/Dropbox/Intelligent Systems/Jess/Jess71p2-students/Jess71p2/lib/jsr94.jar"/>
+	<classpathentry kind="lib" path="lib/vecmath.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/labimp-basis"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/labimp-extend"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/csg-project"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

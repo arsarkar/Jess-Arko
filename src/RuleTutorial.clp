@@ -1,0 +1,1 @@
+(deftemplate person (slot firstName) (slot lastName) (slot age))
